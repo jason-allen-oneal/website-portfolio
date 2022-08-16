@@ -1,0 +1,10 @@
+.navbar {
+  background-color: #CFCBC5!important;
+  border-bottom: 1px solid #363732;
+  border-left: 1px solid #363732;
+  border-right: 1px solid #363732;
+}
+
+.nav-link {
+  color: #118AB2;
+}

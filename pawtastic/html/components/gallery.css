@@ -1,0 +1,18 @@
+.carousel {
+	border: #786452 1px solid;
+}
+
+.carousel-item img {
+	height: auto;
+	width: auto;
+	max-width: 60em;
+	max-height: 32em;
+}
+
+.carousel-control-prev {
+	color: #786452;
+}
+
+.carousel-control-next {
+	color: #786452;
+}

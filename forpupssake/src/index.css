@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Mukta+Malar&display=swap');
+
+html,
+body {
+	margin: 0;
+	font-family: 'Mukta Malar', sans-serif;
+	background-color: #DCE1E9;
+}
+
+h2 {
+  font-family: 'Bungee', cursive;
+  color: #118AB2;
+}
+
+.page-image {
+	height: auto;
+	width: auto;
+	max-width: 12em;
+	max-height: 20em;
+}
+
+p {
+	font-size: 1.2em;
+	font-family: 'Bungee', cursive;
+}

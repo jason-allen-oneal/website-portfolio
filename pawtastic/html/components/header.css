@@ -1,0 +1,14 @@
+.navbar {
+	border-left: #786452 1px solid;
+	border-right: #786452 1px solid;
+	border-bottom: #786452 1px solid;
+}
+
+.nav-link {
+	color: #003D5B;
+}
+
+.title {
+	font-family: 'DynaPuff', cursive;
+	color: #0D1821;
+}

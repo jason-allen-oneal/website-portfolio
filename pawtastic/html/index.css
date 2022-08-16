@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Chewy&family=DynaPuff:wght@600&display=swap');
+
+html,
+body {
+	margin: 0 auto;
+	font-family: 'Cabin', sans-serif;
+	background-color: #F2F5EA;
+}
+
+h2 {
+	font-family: 'DynaPuff', cursive;
+}
+
+.bg-light {
+	background-color: #D6DBD2 !important;
+}
+
+.page-image {
+	height: auto;
+	width: auto;
+	max-width: 12em;
+	max-height: 20em;
+}
+
+p {
+	font-size: 1.2em;
+}
